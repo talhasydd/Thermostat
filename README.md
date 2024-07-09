@@ -68,3 +68,8 @@ The main simulation process performs the following steps:
 - Heating Process: Simulates the heating process, checks if the furnace and fan turn on/off correctly based on the temperature and HEAT signal.
 - Cooling Process: Simulates the cooling process, checks if the AC and fan turn on/off correctly based on the temperature and COOL signal.
 - Assertions: Uses assertions to verify that the outputs match the expected values at various points in the simulation.
+- 
+## Acknowledgements
+
+Xilinx Vivado Design Suite
+Scott Dickson on Udemy for code idea.
